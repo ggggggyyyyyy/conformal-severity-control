@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the accompanying paper."
+type: software
+title: Conformal Severity Control
+version: 0.1.0
+license: MIT
+authors:
+  - family-names: Gu
+    given-names: Yu
+  - family-names: Yu
+    given-names: Zijun
+  - family-names: Yeh
+    given-names: Chi-Kuang
+  - family-names: Wang
+    given-names: Xinyu
+  - family-names: Song
+    given-names: Ziyang
+preferred-citation:
+  type: conference-paper
+  title: "Severity-Controlled Prediction Sets for Medication Recommendation"
+  year: 2026
+  authors:
+    - family-names: Gu
+      given-names: Yu
+    - family-names: Yu
+      given-names: Zijun
+    - family-names: Yeh
+      given-names: Chi-Kuang
+    - family-names: Wang
+      given-names: Xinyu
+    - family-names: Song
+      given-names: Ziyang
